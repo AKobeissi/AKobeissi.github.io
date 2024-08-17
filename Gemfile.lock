@@ -198,6 +198,7 @@ PLATFORMS
   universal-darwin
   x86_64-darwin
   x86_64-linux
+  x64_mingw
 
 DEPENDENCIES
   classifier-reborn
