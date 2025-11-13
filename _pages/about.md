@@ -11,6 +11,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Amine Kobeissi, a master's student in computer science at Université de Montréal, where I focus on artificial intelligence and machine learning. My work lives at the intersection of research and practice—I enjoy experimenting with new model architectures, sharing what I learn, and helping teams translate ideas into working prototypes.
+Hi, I'm Amine Kobeissi, a master's student in computer science at Université de Montréal, where I focus on artificial intelligence and machine learning supervised by [Prof. Phillipe Langlais](https://www-labs.iro.umontreal.ca/~felipe/brand_new_home/creative-design/public_html/index.php?lg=en&page=homeundefined). My research interests lie at the intersection of machine learning, natural language processing, optimization, and quantitative finance. Broadly, I’m interested in decision-making under uncertainty for complex, high-dimensional systems. Right now, my main focus is on Retrieval-Augmented Generation (RAG) systems for financial question answering, where I explore how advanced retrieval/reranking strategies can be used to build more reliable, controllable, and explainable systems. 
 
-Before graduate school, I studied mathematics at McGill University with a concentration in business analytics. Much of my GitHub README highlights this mix of rigorous theory and practical problem-solving, along with ongoing projects that explore data-driven applications and AI-enabled tools. This site will grow alongside those projects—check back soon for deeper dives, notes, and resources.
+I previously completed a B.Com. in Mathematics at McGill University with a concentration in business analytics, where I was a Research Fellow with [Prof. Shoeb Hosain](https://www.mcgill.ca/desautels/shoeb-hosain) in the [Data Sphere Lab](https://www.mcgill.ca/bensadoun-school/data-sphere-lab). 
+
+This summer, I joined Morgan Stanley  as a Quantitative Strategist Summer Associate on their eFX algo execution desk, and have several other data science internship experiences.
