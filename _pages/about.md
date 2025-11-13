@@ -2,24 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: AI & ML graduate student at Université de Montréal
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+profile: false
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Amine Kobeissi, a master's student in computer science at Université de Montréal, where I focus on artificial intelligence and machine learning supervised by [Prof. Phillipe Langlais](https://www-labs.iro.umontreal.ca/~felipe/brand_new_home/creative-design/public_html/index.php?lg=en&page=homeundefined). My research interests lie at the intersection of machine learning, natural language processing, optimization, and quantitative finance. Broadly, I’m interested in decision-making under uncertainty for complex, high-dimensional systems. Right now, my main focus is on Retrieval-Augmented Generation (RAG) systems for financial question answering, where I explore how advanced retrieval/reranking strategies can be used to build more reliable, controllable, and explainable systems. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I previously completed a B.Com. in Mathematics at McGill University with a concentration in business analytics, where I was a Research Fellow with [Prof. Shoeb Hosain](https://www.mcgill.ca/desautels/shoeb-hosain) in the [Data Sphere Lab](https://www.mcgill.ca/bensadoun-school/data-sphere-lab). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This summer, I joined Morgan Stanley  as a Quantitative Strategist Summer Associate on their eFX algo execution desk, and have several other data science internship experiences.
