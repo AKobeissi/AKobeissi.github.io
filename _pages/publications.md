@@ -11,9 +11,11 @@ nav_order: 2
 
 <div class="publications">
 
+{% if site.scholar_userid %}
 <p>
-  🎓 <a href="https://scholar.google.ca/citations?user=6I5_IGQAAAAJ&hl=en">Google Scholar</a>
+  🎓 <a href="https://scholar.google.ca/citations?user={{ site.scholar_userid }}&hl=en">Google Scholar</a>
 </p>
+{% endif %}
 
 {% bibliography %}
 
