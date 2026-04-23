@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Attending CAIAC 39th Edition
-date: 2026-04-23 00:00:00 -0400
+date: 2026-04-7 00:00:00 -0400
 inline: true
 related_posts: false
 ---
 
-I will be attending the **CAIAC 39th edition** in Vancouver (**May 24-May 29**), where my paper was accepted.
+I will be presenting my paper, “Measuring and Closing the Retrieval Gap in Financial Question Answering,” at the [39th Canadian Artificial Intelligence Conference](https://www.caiac.ca/en/conferences/canadianai-2026/home) in Vancouver (May 25–29, 2026)!
