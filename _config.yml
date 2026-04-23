@@ -200,7 +200,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 1 # only show the latest news item on the site
+  limit: 10 # only show the latest news item on the site
 
 latest_posts:
   enabled: false
