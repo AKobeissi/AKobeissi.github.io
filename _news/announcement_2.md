@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk at the [RALI seminar](https://rali.iro.umontreal.ca/sem//display_sem.php?semid=3989) on my research on retrieval-augmented generation (RAG) for financial question answering systems.
+Invited talk at the [RALI seminar](https://rali.iro.umontreal.ca/sem//display_sem.php?semid=3989) on my research on retrieval-augmented generation (RAG) for financial question answering systems.
