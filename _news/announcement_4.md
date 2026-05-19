@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-My new paper, **"Evaluating Retrieval in RAG Systems for Financial Question Answering over Long Documents"**, has been accepted to **CORIA-TALN 2026** in the **main long paper track**. The conference will take place in [Nantes, France](https://coria-taln-2026.ls2n.fr/).
+My new paper, "Evaluating Retrieval in RAG Systems for Financial Question Answering over Long Documents", has been accepted to CORIA-TALN 2026 in the main long paper track. The conference will take place in [Nantes, France](https://coria-taln-2026.ls2n.fr/).

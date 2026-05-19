@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I will be presenting my paper, “Measuring and Closing the Retrieval Gap in Financial Question Answering,” at the [39th Canadian Artificial Intelligence Conference](https://www.caiac.ca/en/conferences/canadianai-2026/home) in Vancouver (May 25–29, 2026), in the **Graduate Student Track**.
+I will be presenting my paper, “Measuring and Closing the Retrieval Gap in Financial Question Answering,” at the [39th Canadian Artificial Intelligence Conference](https://www.caiac.ca/en/conferences/canadianai-2026/home) in Vancouver (May 25–29, 2026), in the Graduate Student Track.
