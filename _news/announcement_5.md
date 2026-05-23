@@ -7,11 +7,7 @@ related_posts: false
 ---
 
 <a href="{{ '/assets/pdf/posters/caiac-2026-poster.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
-  <img
-    src="{{ '/assets/img/posters/caiac-2026-poster.png' | relative_url }}"
-    alt="Poster presented at Journée de la recherche du DIRO 2026"
-    style="float:left; margin-right:20px; width:300px; height:auto;"
-  >
+  <img src="{{ '/assets/img/posters/caiac-2026-poster.png' | relative_url }}" alt="Poster presented at Journée de la recherche du DIRO 2026" style="float:left; margin-right:20px; width:300px; height:auto;" />
 </a>
 
 My poster was accepted and I presented it at [**Journée de la recherche du DIRO 2026**](https://event.fourwaves.com/diro2026/abstracts/fe2ce10b-fda7-4464-8b73-d82f82b3137e).
