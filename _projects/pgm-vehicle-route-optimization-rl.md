@@ -13,6 +13,19 @@ This project explores how **probabilistic graphical models (PGMs)** and **reinfo
 - **Core idea:** use probabilistic structure and RL objectives to improve route quality under operational constraints
 - **Outputs:** reproducible experiments, training diagnostics, and route/vehicle-load plots
 
+## Poster
+
+<a href="{{ '/assets/pdf/posters/pgm-vehicle-routing-poster.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+  <img
+    src="{{ '/assets/img/posters/pgm-vehicle-routing-poster.png' | relative_url }}"
+    alt="PGM vehicle routing poster preview"
+    style="max-width: 700px; width: 100%; height: auto;"
+  >
+</a>
+
+## Links
+
 - **GitHub:** [AKobeissi/pgm-reinforcement-learning](https://github.com/AKobeissi/pgm-reinforcement-learning)
 - **Reference paper:** [Towards Reinforcement Learning over State and Temporal Abstractions for Vehicle Routing Applications](https://arxiv.org/pdf/1805.00909)
+- **Poster (PDF):** [PGM vehicle routing poster]({{ '/assets/pdf/posters/pgm-vehicle-routing-poster.pdf' | relative_url }})
 - **Poster/script:** [benchmark/poster.py](https://github.com/AKobeissi/pgm-reinforcement-learning/blob/main/benchmark/poster.py)
