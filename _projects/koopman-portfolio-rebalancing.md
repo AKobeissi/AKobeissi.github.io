@@ -18,11 +18,7 @@ This project studies Koopman-based latent dynamics modeling for financial time s
 ## Poster
 
 <a href="{{ '/assets/pdf/posters/koopman-dynamics-poster.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
-  <img
-    src="{{ '/assets/img/posters/koopman-dynamics-poster.png' | relative_url }}"
-    alt="Koopman dynamics poster preview"
-    style="max-width: 700px; width: 100%; height: auto;"
-  >
+  <img src="{{ '/assets/img/posters/koopman-dynamics-poster.png' | relative_url }}" alt="Koopman dynamics poster preview" style="max-width: 700px; width: 100%; height: auto;" />
 </a>
 
 ## Links

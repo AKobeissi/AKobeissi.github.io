@@ -16,11 +16,7 @@ This project explores how **probabilistic graphical models (PGMs)** and **reinfo
 ## Poster
 
 <a href="{{ '/assets/pdf/posters/pgm-vehicle-routing-poster.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
-  <img
-    src="{{ '/assets/img/posters/pgm-vehicle-routing-poster.png' | relative_url }}"
-    alt="PGM vehicle routing poster preview"
-    style="max-width: 700px; width: 100%; height: auto;"
-  >
+  <img src="{{ '/assets/img/posters/pgm-vehicle-routing-poster.png' | relative_url }}" alt="PGM vehicle routing poster preview" style="max-width: 700px; width: 100%; height: auto;" />
 </a>
 
 ## Links

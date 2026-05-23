@@ -24,11 +24,7 @@ This project studies retrieval failure modes in retrieval-augmented generation (
 ## Poster
 
 <a href="{{ '/assets/pdf/posters/caiac-2026-poster.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
-  <img
-    src="{{ '/assets/img/posters/caiac-2026-poster.png' | relative_url }}"
-    alt="CAIAC 2026 poster preview"
-    style="max-width: 700px; width: 100%; height: auto;"
-  >
+  <img src="{{ '/assets/img/posters/caiac-2026-poster.png' | relative_url }}" alt="CAIAC 2026 poster preview" style="max-width: 700px; width: 100%; height: auto;" />
 </a>
 
 ## Links
