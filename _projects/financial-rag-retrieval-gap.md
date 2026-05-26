@@ -23,9 +23,7 @@ This project studies retrieval failure modes in retrieval-augmented generation (
 
 ## Poster
 
-<a href="{{ '/assets/img/posters/rag_pipeline_poster.png' | relative_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ '/assets/img/posters/rag_pipeline_poster.png' | relative_url }}" alt="RAG pipeline poster preview" style="max-width: 700px; width: 100%; height: auto;" />
-</a>
+<a href="{{ '/assets/img/posters/rag_pipeline_poster.png' | relative_url }}" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/posters/rag_pipeline_poster.png' | relative_url }}" alt="RAG pipeline poster preview" style="max-width: 700px; width: 100%; height: auto;" /></a>
 
 ## Links
 
